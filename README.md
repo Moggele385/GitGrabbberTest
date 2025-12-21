@@ -1,4 +1,3 @@
 # GitGrabbberTest
-Testing Stuff
-l
+Testing Stuff  
 Goal: Grab Stuff from Github via Shell
